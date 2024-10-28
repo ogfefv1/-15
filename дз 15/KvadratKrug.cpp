@@ -33,7 +33,8 @@ void KvadratKrug::output() const
     {
         cout << "Круг может поместиться в квадрате" << endl;
     }
-    else {
+    else
+    {
         cout << "Круг не может поместиться в квадрате" << endl;
     }
 }
